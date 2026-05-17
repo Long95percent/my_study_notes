@@ -48,3 +48,9 @@ components.d.ts
 # Logs
 
 *.log
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
