@@ -1,0 +1,87 @@
+{
+  "sessions": [
+    [
+      "chat-1779025993864-azk2gu76e",
+      {
+        "id": "chat-1779025993864-azk2gu76e",
+        "title": "你好",
+        "messages": [
+          {
+            "id": "oG2rCwLN1vvleDqR",
+            "createdAt": "2026-05-17T13:53:47.666Z",
+            "role": "user",
+            "content": "你好\n\n",
+            "parts": [
+              {
+                "type": "text",
+                "text": "你好\n\n"
+              }
+            ]
+          },
+          {
+            "id": "msg-ir3x5gfEPDt0XHCAllvriNyo",
+            "createdAt": "2026-05-17T13:53:48.623Z",
+            "role": "assistant",
+            "content": "你好！有什么我可以帮你的吗？",
+            "parts": [
+              {
+                "type": "text",
+                "text": "你好！有什么我可以帮你的吗？"
+              }
+            ],
+            "revisionId": "bDeHGyWp8BkZzuSj"
+          },
+          {
+            "id": "dX22JvJXqffmuVsf",
+            "createdAt": "2026-05-17T14:00:01.670Z",
+            "role": "user",
+            "content": "你是哪个模型\n\n",
+            "parts": [
+              {
+                "type": "text",
+                "text": "你是哪个模型\n\n"
+              }
+            ]
+          },
+          {
+            "id": "msg-cWrXwuT3kcrj0N1cBCkw6jxB",
+            "createdAt": "2026-05-17T14:00:03.577Z",
+            "role": "assistant",
+            "content": "我是基于OpenAI的GPT-4架构的语言模型，专门为帮助你管理和组织Obsidian笔记而设计的智能助手。如果你有任何关于笔记管理、整理、查询等方面的问题，随时告诉我！",
+            "parts": [
+              {
+                "type": "text",
+                "text": "我是基于OpenAI的GPT-4架构的语言模型，专门为帮助你管理和组织Obsidian笔记而设计的智能助手。如果你有任何关于笔记管理、整理、查询等方面的问题，随时告诉我！"
+              }
+            ],
+            "revisionId": "cKMnpw2pncStkHWf"
+          }
+        ],
+        "createdAt": 1779025993864,
+        "updatedAt": 1779026407606,
+        "contextSnapshot": "{\"filesCount\":0,\"foldersCount\":0,\"tagsCount\":0,\"hasCurrentFile\":true,\"currentFile\":null,\"timestamp\":1779026406133}",
+        "messageContextSnapshots": {
+          "msg-ir3x5gfEPDt0XHCAllvriNyo": "Attached file paths — use these exact strings for mergeFiles sourceFiles, getFileMetadata filePaths, deleteFiles filePaths, or extractHighlights filePath/filePaths (do not modify):\n碎碎念/2026-05-17.md\n\n{\"files\":{},\"folders\":{},\"tags\":{},\"currentFile\":{\"id\":\"碎碎念/2026-05-17.md\",\"type\":\"file\",\"path\":\"碎碎念/2026-05-17.md\",\"title\":\"2026-05-17\",\"content\":\"学校里和外面的世界完全是不一样的\\n真切感受到了为什么说学校是象牙塔\",\"reference\":\"Current File\",\"createdAt\":1779024028013},\"youtubeVideos\":{},\"searchResults\":{},\"textSelections\":{}}",
+          "msg-cWrXwuT3kcrj0N1cBCkw6jxB": "Attached file paths — use these exact strings for mergeFiles sourceFiles, getFileMetadata filePaths, deleteFiles filePaths, or extractHighlights filePath/filePaths (do not modify):\n碎碎念/2026-05-17.md\n\n{\"files\":{},\"folders\":{},\"tags\":{},\"currentFile\":{\"id\":\"碎碎念/2026-05-17.md\",\"type\":\"file\",\"path\":\"碎碎念/2026-05-17.md\",\"title\":\"2026-05-17\",\"content\":\"学校里和外面的世界完全是不一样的\\n真切感受到了为什么说学校是象牙塔\",\"reference\":\"Current File\",\"createdAt\":1779024028013},\"youtubeVideos\":{},\"searchResults\":{},\"textSelections\":{}}"
+        },
+        "contextItems": {
+          "files": {},
+          "folders": {},
+          "tags": {},
+          "youtubeVideos": {},
+          "searchResults": {},
+          "textSelections": {},
+          "currentFile": {
+            "id": "碎碎念/2026-05-17.md",
+            "type": "file",
+            "path": "碎碎念/2026-05-17.md",
+            "title": "2026-05-17",
+            "content": "学校里和外面的世界完全是不一样的\n真切感受到了为什么说学校是象牙塔",
+            "reference": "Current File",
+            "createdAt": 1779024028013
+          }
+        }
+      }
+    ]
+  ]
+}
